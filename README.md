@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on [mapmyjob](www.mapmyjob.tech)
+- 🔭 I’m currently working on [mapmyjob](mapmyjob)
 
 - 🌱 I’m currently learning **JanusGraph, Gremlin, Spring Boot**
 
