@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on [mapmyjob](http://www.mapmyjob.tech)
-
 - 🌱 I’m currently learning **JanusGraph, Gremlin, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitsaxena098?tab=repositories](https://github.com/amitsaxena098?tab=repositories)
